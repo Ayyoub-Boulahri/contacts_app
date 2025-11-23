@@ -34,19 +34,11 @@ It is designed to exercise local data management, user interface, and code organ
 - Compilation / build tools: [indicate: Gradle, Makefile, etc.].
 
 ## Installation, Compilation & Running  
-1. Clone the repository:  
+Clone the repository:  
    ```bash  
    git clone https://github.com/AyoubPro44/contacts_app.git  
    cd contacts_app  
    ```  
-2. Install dependencies (if necessary):  
-   ```bash  
-   [command based on project]  
-   ```  
-3. Compile or open in your development environment.  
-4. Launch the application.  
-5. (Optional) Configure access rights or settings depending on the environment.
-
 ## Usage  
 - Open the application.  
 - Use the "Add contact" option to register a new one.  
